@@ -1,0 +1,7 @@
+Started by user [8mha:////4PEwo5ONxpTIVwUsQQrzxIk0bVR1Xah99OXYQKnJVCE2AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZu/dLi1CL9xJTczDwACG0V4sAAAAA=[0mJenkins Admin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/my-fisrt-job
+[my-fisrt-job] $ /bin/sh -xe /tmp/jenkins16555289441358245712.sh
++ /tmp/script.sh
+Hello,  
+Finished: SUCCESS
